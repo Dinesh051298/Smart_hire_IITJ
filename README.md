@@ -1,4 +1,4 @@
-# 🤖 SmartHire — AI-Powered Resume Screening & Ranking System  
+# SmartHire — AI-Powered Resume Screening & Ranking System  
 **by [Dinesh Periyasamy](https://github.com/Dinesh051298)**  
 
 SmartHire is an **AI-driven web application** designed to revolutionize the recruitment process by automating **resume screening and candidate ranking** using **advanced NLP techniques**.  
@@ -6,7 +6,7 @@ It helps recruiters instantly identify top candidates by comparing resumes with 
 
 ---
 
-## 🚀 Features at a Glance
+## Features 
 
 | Category | Highlights |
 |-----------|-------------|
@@ -20,7 +20,7 @@ It helps recruiters instantly identify top candidates by comparing resumes with 
 
 ---
 
-## 🏗️ Tech Stack Overview
+## Tech Stack Overview
 
 | Layer | Technology |
 |--------|-------------|
@@ -59,7 +59,7 @@ smart_hire/
 
 ## ⚙️ Installation Guide
 
-### 🧩 Prerequisites
+### Prerequisites
 Ensure you have the following installed:
 - Python ≥ 3.8  
 - MongoDB (Local / Atlas)
@@ -67,7 +67,7 @@ Ensure you have the following installed:
 
 ---
 
-### 🪜 Setup Steps
+### Setup Steps
 
 # Clone the repository
 
@@ -114,7 +114,7 @@ MONGO_URI=mongodb://localhost:27017/smart_hire
 
 
 
-# 🧭Running the Application
+# Running the Application
 
 ### Start MongoDB (skip if already running)
 ```bash
@@ -153,7 +153,7 @@ Automatically view candidate rankings
 Explore detailed skill and content match reports
 
 
-## 🧠 Resume–JD Matching Engine
+## Resume–JD Matching Engine
 
 SmartHire’s matching system uses a multi-layered AI approach:
 
@@ -161,11 +161,11 @@ SmartHire’s matching system uses a multi-layered AI approach:
 
 | Step | Description |
 |------|--------------|
-| 🧾 **Text Extraction** | Extracts key information such as keywords, skills, education, and work experience from both resumes and job descriptions. |
-| ⚙️ **Preprocessing** | Cleans and prepares text data through tokenization, stop-word removal, and lemmatization. |
-| 🔠 **Vectorization** | Converts textual data into numerical vectors using **TF-IDF** or **BERT embeddings** for semantic understanding. |
-| 📈 **Similarity Scoring** | Computes **Cosine Similarity** between resume and JD vectors to measure alignment. |
-| 🧩 **Result Generation** | Produces a **match score**, highlights **matched/missing skills**, and provides an **overall ranking** of candidates. |
+| **Text Extraction** | Extracts key information such as keywords, skills, education, and work experience from both resumes and job descriptions. |
+| **Preprocessing** | Cleans and prepares text data through tokenization, stop-word removal, and lemmatization. |
+| **Vectorization** | Converts textual data into numerical vectors using **TF-IDF** or **BERT embeddings** for semantic understanding. |
+| **Similarity Scoring** | Computes **Cosine Similarity** between resume and JD vectors to measure alignment. |
+| **Result Generation** | Produces a **match score**, highlights **matched/missing skills**, and provides an **overall ranking** of candidates. |
 
 ---
 
@@ -184,15 +184,15 @@ Integrates MongoDB Atlas for cloud-ready deployment
 
 Easily extensible to include BERT, Sentence Transformers, or LLMs for advanced semantic understanding
 
-## 🏁 Future Enhancements
+## Future Enhancements
 
-🤖 GPT-based Resume Analysis & Feedback
+GPT-based Resume Analysis & Feedback
 
-📈 Advanced Visualization Dashboards
+Advanced Visualization Dashboards
 
-🔄 Integration with ATS Systems
+Integration with ATS Systems
 
-🧩 Real-time Job Recommendation Engine
+Real-time Job Recommendation Engine
 
  ##  ❤️Acknowledgements
 
