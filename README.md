@@ -84,14 +84,14 @@ pip install -r requirements.txt
 # Download NLP models
 python -m spacy download en_core_web_sm
 
-⚙️#Configuration
+#⚙️Configuration
 
 Create a .env file in your project root:
 
 SECRET_KEY=your_secret_key_here  example: 8a2f1b3e8c9c4a8b7e6f0d3e5a4b1c8a3df2d9c2b4a6f8
 MONGO_URI=mongodb://localhost:27017/smart_hire
 
-# 🧭Running the Application
+#🧭Running the Application
 
 ### Start MongoDB (skip if already running)
 mongod
@@ -101,7 +101,7 @@ python run.py
 
 Visit the application at: 👉 http://localhost:5000
 
-👨‍💻 ## User Guide
+## 👨‍💻 User Guide
 
 🧍‍♂️ For Applicants:
 Register and log in
@@ -114,7 +114,7 @@ Get job recommendations based on your profile
 
 
 
-🧑‍💼 For Recruiters:
+## 🧑‍💼 For Recruiters:
 Register and log in
 
 Upload job descriptions
@@ -124,7 +124,7 @@ Automatically view candidate rankings
 Explore detailed skill and content match reports
 
 
-🧠 ## Resume–JD Matching Engine
+## 🧠 Resume–JD Matching Engine
 
 SmartHire’s matching system uses a multi-layered AI approach:
 
@@ -145,7 +145,7 @@ SmartHire’s matching system uses a multi-layered AI approach:
 
 
 
-🧑‍💻 ## Developer Notes
+## 🧑‍💻Developer Notes
 
 Built with Flask Blueprints for modular routing
 
@@ -155,7 +155,7 @@ Integrates MongoDB Atlas for cloud-ready deployment
 
 Easily extensible to include BERT, Sentence Transformers, or LLMs for advanced semantic understanding
 
-🏁 ## Future Enhancements
+## 🏁 Future Enhancements
 
 🤖 GPT-based Resume Analysis & Feedback
 
@@ -165,11 +165,11 @@ Easily extensible to include BERT, Sentence Transformers, or LLMs for advanced s
 
 🧩 Real-time Job Recommendation Engine
 
-❤️ ## Acknowledgements
+ ##  ❤️Acknowledgements
 
 Special thanks to the IIT Jodhpur Data Engineering Program for academic guidance and the open-source AI community for enabling innovation.
 
-📬 ## Contact
+ ## 📬Contact
 
 Author: Dinesh Periyasamy
 
