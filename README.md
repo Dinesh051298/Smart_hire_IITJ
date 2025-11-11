@@ -32,8 +32,9 @@ It helps recruiters instantly identify top candidates by comparing resumes with 
 
 ---
 
-## 🗂️ Project Structure
+---
 
+## 🗂️ Project Structure
 
 ```
 smart_hire/
@@ -68,7 +69,6 @@ Ensure you have the following installed:
 
 ### 🪜 Setup Steps
 
-```bash
 # Clone the repository
 git clone https://github.com/Dinesh051298/smart_hire_IITJ.git
 cd smart_hire_IITJ
