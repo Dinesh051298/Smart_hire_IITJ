@@ -139,8 +139,6 @@ Upload your resume (.pdf or .docx)
 
 View extracted resume insights
 
-Get job recommendations based on your profile
-
 
 
 ## 🧑‍💼 For Recruiters:
