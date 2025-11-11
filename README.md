@@ -71,6 +71,7 @@ Ensure you have the following installed:
 
 # Clone the repository
 git clone https://github.com/Dinesh051298/smart_hire_IITJ.git
+
 cd smart_hire_IITJ
 
 # Create virtual environment
