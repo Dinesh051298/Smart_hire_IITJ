@@ -76,7 +76,9 @@ cd smart_hire_IITJ
 
 # Create virtual environment
 python -m venv venv
+
 venv\Scripts\activate     # (Windows)
+
 #source venv/bin/activate  # (Linux/Mac)
 
 # Install required dependencies
