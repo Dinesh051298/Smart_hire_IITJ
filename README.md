@@ -69,7 +69,7 @@ Ensure you have the following installed:
 
 ### Setup Steps
 
-# Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/Dinesh051298/smart_hire_IITJ.git
@@ -79,7 +79,7 @@ cd smart_hire_IITJ
 ```
 
 
-# Create virtual environment
+### Create virtual environment
 ```bash
 python -m venv venv
 ```
@@ -92,18 +92,18 @@ venv\Scripts\activate     # (Windows)
 ```
 
 
-# Install required dependencies
+### Install required dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-# Download NLP models
+### Download NLP models
 ```bash
 python -m spacy download en_core_web_sm
 ```
 
 
-# ⚙️Configuration
+### ⚙️Configuration
 
 Create a .env file in your project root:
 
@@ -114,7 +114,7 @@ MONGO_URI=mongodb://localhost:27017/smart_hire
 
 
 
-# Running the Application
+### Running the Application
 
 ### Start MongoDB (skip if already running)
 ```bash
@@ -122,7 +122,7 @@ mongod
 ```
 
 
-# Run Flask app
+### Run Flask app
 ```bash
 python run.py
 ```
