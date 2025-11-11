@@ -1,4 +1,4 @@
-# SmartHire — AI-Powered Resume Screening & Ranking System  
+# SmartHire - AI-Powered Resume Screening & Ranking System  
 **by [Dinesh Periyasamy](https://github.com/Dinesh051298)**  
 
 SmartHire is an **AI-driven web application** designed to revolutionize the recruitment process by automating **resume screening and candidate ranking** using **advanced NLP techniques**.  
