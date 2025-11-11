@@ -10,13 +10,13 @@ It helps recruiters instantly identify top candidates by comparing resumes with 
 
 | Category | Highlights |
 |-----------|-------------|
-| 🧑‍💼 **Authentication** | Secure, role-based login for Applicants & Recruiters |
-| 📄 **Resume Intelligence** | Upload and parse resumes (extracts skills, education, experience, and contact info) |
-| 📝 **JD Management** | Upload, store, and manage Job Descriptions effortlessly |
-| 🧠 **AI-Powered Matching** | Uses **spaCy**, **NLTK**, and **TF-IDF / BERT embeddings** for semantic similarity |
-| 📊 **Smart Ranking** | Automatically ranks resumes based on content and skill overlap |
-| 🔍 **Detailed Insights** | Displays matched and missing skills with confidence scores |
-| 🧾 **Dashboards** | Separate Recruiter and Applicant dashboards with easy navigation |
+| **Authentication** | Secure, role-based login for Applicants & Recruiters |
+| **Resume Intelligence** | Upload and parse resumes (extracts skills, education, experience, and contact info) |
+| **JD Management** | Upload, store, and manage Job Descriptions effortlessly |
+| **AI-Powered Matching** | Uses **spaCy**, **NLTK**, and **TF-IDF / BERT embeddings** for semantic similarity |
+| **Smart Ranking** | Automatically ranks resumes based on content and skill overlap |
+| **Detailed Insights** | Displays matched and missing skills with confidence scores |
+| **Dashboards** | Separate Recruiter and Applicant dashboards with easy navigation |
 
 ---
 
@@ -24,11 +24,11 @@ It helps recruiters instantly identify top candidates by comparing resumes with 
 
 | Layer | Technology |
 |--------|-------------|
-| 🖥️ **Frontend** | HTML5, CSS3, Bootstrap, Jinja2 Templates |
-| ⚙️ **Backend** | Python, Flask |
-| 🧠 **AI/NLP** | spaCy, NLTK, scikit-learn |
-| 🗄️ **Database** | MongoDB (NoSQL) |
-| 🧩 **Similarity Engine** | TF-IDF / BERT + Cosine Similarity |
+| **Frontend** | HTML5, CSS3, Bootstrap, Jinja2 Templates |
+| **Backend** | Python, Flask |
+| **AI/NLP** | spaCy, NLTK, scikit-learn |
+| **Database** | MongoDB (NoSQL) |
+| **Similarity Engine** | TF-IDF / BERT + Cosine Similarity |
 
 ---
 
