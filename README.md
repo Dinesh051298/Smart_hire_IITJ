@@ -76,7 +76,7 @@ cd smart_hire_IITJ
 # Create virtual environment
 python -m venv venv
 venv\Scripts\activate     # (Windows)
-# source venv/bin/activate  # (Linux/Mac)
+#source venv/bin/activate  # (Linux/Mac)
 
 # Install required dependencies
 pip install -r requirements.txt
@@ -84,16 +84,16 @@ pip install -r requirements.txt
 # Download NLP models
 python -m spacy download en_core_web_sm
 
-
-⚙️ ## Configuration
+⚙️#Configuration
 
 Create a .env file in your project root:
 
 SECRET_KEY=your_secret_key_here  example: 8a2f1b3e8c9c4a8b7e6f0d3e5a4b1c8a3df2d9c2b4a6f8
 MONGO_URI=mongodb://localhost:27017/smart_hire
 
-🧭 ## Running the Application
-# Start MongoDB (skip if already running)
+# 🧭Running the Application
+
+### Start MongoDB (skip if already running)
 mongod
 
 # Run Flask app
