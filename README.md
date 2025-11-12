@@ -124,7 +124,7 @@ mongod
 
 ### Run Flask app
 ```bash
-python run.py
+python app.py
 ```
 
 
