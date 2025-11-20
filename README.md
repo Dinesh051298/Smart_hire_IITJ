@@ -166,12 +166,12 @@ SmartHire’s matching system uses a multi-layered AI approach:
 | **Result Generation** | Produces a **match score**, highlights **matched/missing skills**, and provides an **overall ranking** of candidates. |
 
 ---
----
 
 ## Block Diagram
-<img width="7676" height="1038" alt="Untitled diagram-2025-11-20-122442" src="https://github.com/user-attachments/assets/09d5d1bd-80c1-4b5c-92bf-4ee7187204b5" />
 
----
+<img width="7676" height="1038" alt="Untitled diagram-2025-11-20-123107" src="https://github.com/user-attachments/assets/74df0d6d-082b-4b77-b79d-7c2652eaabbd" />
+
+
 
 ## 🧑‍💻Developer Notes
 
