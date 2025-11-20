@@ -167,8 +167,8 @@ SmartHire’s matching system uses a multi-layered AI approach:
 
 ---
 
-
-
+##Block Diagram
+<img width="7676" height="1038" alt="Untitled diagram-2025-11-20-122442" src="https://github.com/user-attachments/assets/09d5d1bd-80c1-4b5c-92bf-4ee7187204b5" />
 
 
 
