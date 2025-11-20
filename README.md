@@ -173,15 +173,6 @@ SmartHire’s matching system uses a multi-layered AI approach:
 
 
 
-## 🧑‍💻Developer Notes
-
-Built with Flask Blueprints for modular routing
-
-Designed with Bootstrap 5 responsive UI
-
-Integrates MongoDB Atlas for cloud-ready deployment
-
-Easily extensible to include BERT, Sentence Transformers, or LLMs for advanced semantic understanding
 
 ## Future Enhancements
 
@@ -193,9 +184,12 @@ Integration with ATS Systems
 
 Real-time Job Recommendation Engine
 
- ##  ❤️Acknowledgements
+## ❤️ Acknowledgements
 
-Special thanks to the IIT Jodhpur Data Engineering Program for academic guidance and the open-source AI community for enabling innovation.
+Special thanks to **Dr. Md. Abu Talhamainuddin Ansary** for his constant guidance, support, and mentorship throughout this project.
+
+Grateful to the **IIT Jodhpur Data Engineering Program** for providing academic direction.
+
 
  ## 📬Contact
 
