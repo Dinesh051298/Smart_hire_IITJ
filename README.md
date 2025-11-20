@@ -172,6 +172,18 @@ SmartHire’s matching system uses a multi-layered AI approach:
 <img width="7676" height="1038" alt="Untitled diagram-2025-11-20-123107" src="https://github.com/user-attachments/assets/74df0d6d-082b-4b77-b79d-7c2652eaabbd" />
 
 
+## Output Screenshots
+
+### Applicant dashboard
+<img width="1603" height="956" alt="image" src="https://github.com/user-attachments/assets/cebf3427-73c9-4ed2-a52d-e669eba36464" />
+<img width="1358" height="902" alt="image" src="https://github.com/user-attachments/assets/1668fbe1-b195-4a48-bf8c-4eff47ec6faf" />
+
+
+### Recruiter dashoard
+<img width="1401" height="898" alt="image" src="https://github.com/user-attachments/assets/e25fb1e0-4e14-45c7-9e9c-6821340fd3e9" />
+
+<img width="1398" height="730" alt="image" src="https://github.com/user-attachments/assets/35e16be8-6f33-42cd-8d16-6bdddfb2198f" />
+
 
 
 ## Future Enhancements
